@@ -1,0 +1,85 @@
+.page{
+margin: 30px 80px;
+padding: 15px;
+border-radius: 5px;
+background-color:rgb(226, 14, 14) ;
+color: white;
+}
+
+#dr{
+font-size: 90px;
+margin-bottom: 0;
+}
+
+    body{
+font-family: 'poppins', sans-serif ;
+display: block;
+
+        text-align: center;
+        background-color: rgb(124, 7, 7);
+        color: white;
+        
+    }
+
+
+
+
+
+
+.list ul{
+    text-align: center;
+    display: block;
+    font-size: 1.5rem;
+    
+}
+
+
+
+.image{
+max-width: 100%;
+display: block;
+height: auto;
+background-image: url(img/1\ \(1\).jpg);
+background-blend-mode: overlay;
+background-size: cover;
+background-color: rgb(124, 7, 7);
+padding: 20%;
+padding-bottom: 20px;
+padding-top: 20px;
+margin: 0;
+
+
+}
+
+
+#caption{
+    margin: 15px 0 5px 0;
+    color: white;
+    font-size: 20px;
+}
+
+
+
+ul{
+
+    max-width: 550px;
+    margin: 0 auto 50px auto;
+    text-align: left;
+    line-height: 1.6;
+}
+
+h3{
+    font-size: 20px;
+    margin-bottom: 70px;
+}
+.closing{
+    font-size: 30px;
+}
+#footer{
+
+    font-size: 20px;
+}
+.block{
+    font-size: large;
+    font-style: italic;
+}
